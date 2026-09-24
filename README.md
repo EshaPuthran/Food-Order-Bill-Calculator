@@ -152,15 +152,6 @@ Branch: main
 Main file: streamlit_app.py
 ```
 
-## 📸 Application Preview
-
-You can add screenshots of your application here.
-
-Example:
-
-```markdown
-![Food Order App](screenshot.png)
-```
 
 ##  Learning Objective
 
